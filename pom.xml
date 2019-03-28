@@ -9,7 +9,7 @@
 
     <modules>
         <module>xchange-stream-core</module>
-        <module>service-pubnub</module>
+        <!-- <module>service-pubnub</module>
         <module>service-pusher</module>
         <module>service-netty</module>
         <module>service-wamp</module>
@@ -27,7 +27,7 @@
         <module>xchange-gemini</module>
         <module>xchange-wex</module>
         <module>xchange-binance</module>
-        <module>xchange-hitbtc</module>
+        <module>xchange-hitbtc</module> -->
     </modules>
 
     <name>xchange-stream</name>
